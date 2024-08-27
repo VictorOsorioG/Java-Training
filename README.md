@@ -12,6 +12,8 @@ Exercises made in each topic for the Java Training.
 
 [Topic 4](https://github.com/VictorOsorioG/Java-Training/tree/topic4) -> Microservices with Spring Boot.
 
+[Topic 6](https://github.com/VictorOsorioG/Java-Training/tree/topic6) -> Unit testing JUnit + Mockito.
+
 
 ## Training Meetings exercises
 
