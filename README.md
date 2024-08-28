@@ -10,7 +10,11 @@ Exercises made in each topic for the Java Training.
 
 [Topic 2](https://github.com/VictorOsorioG/Java-Training/tree/topic2) -> Java Functional.
 
+[Topic 3](https://github.com/VictorOsorioG/Java-Training/tree/topic3) -> REST API design and HTTP Architecture.
+
 [Topic 4](https://github.com/VictorOsorioG/Java-Training/tree/topic4) -> Microservices with Spring Boot.
+
+[Topic 5](https://github.com/VictorOsorioG/Java-Training/tree/topic3) -> Spring Data + JPA.
 
 [Topic 6](https://github.com/VictorOsorioG/Java-Training/tree/topic6) -> Unit testing JUnit + Mockito.
 
